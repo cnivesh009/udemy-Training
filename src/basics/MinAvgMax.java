@@ -2,7 +2,7 @@
  * @author:        Nivesh Chandola
  * Date:           22.07.2019
  * Program:        Array of numbers; Displays Min, Avg and Max
- * Last Edited:    22.07.2019
+ * Last Edited:    31.07.2019
  */
 
 package basics;
@@ -10,7 +10,7 @@ package basics;
 public class MinAvgMax{
     public static void main(String[] args){
 	int min, avg, max;
-	int[] arr = new int[] {2,1,5,4,31};  //this is array literal
+	int[] arr = new int[] {20,10,5,4,31};  //this is array literal
 	/// size is known in array literal
 	min = Minimum(arr);
 	avg = Average(arr);
