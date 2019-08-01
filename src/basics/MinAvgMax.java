@@ -1,7 +1,7 @@
 /*
  * @author:        Nivesh Chandola
  * Date:           22.07.2019
- * Program:        Array of numbers; Displays Min, Avg and Max
+ * Program:        Array of numbers - Displays Min, Avg and Max
  * Last Edited:    01.08.2019
  */
 
