@@ -97,7 +97,7 @@ public class PasswordCriteria {	//	main class
 	}
 }
 
-/*-----------Programmer Defined Exception-----------*/
+/*----------Programmer Defined Exception----------*/
 class NumberException extends Exception {
 
 	String pass;	//	class variable
