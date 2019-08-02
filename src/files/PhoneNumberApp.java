@@ -25,7 +25,7 @@ public class PhoneNumberApp {
 		String fname = "C:/Users/Nivesh-GC/Documents/Udemy/Udemy Java/Java Junior Dev/Files/PhoneNumber.txt";
 		File fobj = new File(fname);
 		String[] phoneNums = new String[9];
-		String phoneNum = null;
+		String phoneNum;
 
 		try {
 			BufferedReader br = new BufferedReader(new FileReader(fobj));
@@ -35,15 +35,12 @@ public class PhoneNumberApp {
 			br.close();
 		} catch (FileNotFoundException ex) {
 			System.out.println("Error: file not found");
-			ex.printStackTrace();
 		} catch (IOException ex) {
 			System.out.println("Error: could not read file");
-			ex.printStackTrace();
 		}
 
-		for (int i = 0; i < phoneNums.length; i++) {
-			phoneNum = phoneNums[i];
-
+		for (String phoneNum1 : phoneNums) {
+			phoneNum = phoneNum1;
 			try {
 				if (phoneNum.length() != 10) {
 					throw new TenDigitException(phoneNum);
