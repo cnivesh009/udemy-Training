@@ -30,7 +30,7 @@ public class MultiDimensionArr {
 		System.out.println();
 		System.out.println("Using 2 for loops");
 		for (int i = 0; i < num_of_users; i++) {
-			for(int j = 0; j < num_of_fields; j++){
+			for (int j = 0; j < num_of_fields; j++) {
 				System.out.print(users[i][j] + "\t");
 			}
 			System.out.println();
@@ -38,11 +38,11 @@ public class MultiDimensionArr {
 		System.out.println();
 		System.out.println("Enhanced for loop was used for 2D arrary");
 		for (String[] user : users) {	//	2d Array users converted to single array
-			for (String field : user){
+			for (String field : user) {
 				System.out.print(field + "	");
 			}
 			System.out.println();
 		}
-		
+
 	}
 }
