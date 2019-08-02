@@ -18,7 +18,7 @@ public class MinAvgMax{
 	System.out.println("*****Displays Mini Avg and Max Values*****");
         System.out.println("Minimum value: " + min);
 	System.out.println("Average value: " + avg);
-	System.out.println("Maximum value: " + max);
+	System.out.println("Maximum value: " + max);a
     }
     
     public static int Minimum(int[] arr){
