@@ -25,7 +25,7 @@ public class PhoneNumberApp {
 		String fname = "C:/Users/Nivesh-GC/Documents/Udemy/Udemy Java/Java Junior Dev/Files/PhoneNumber.txt";
 		File fobj = new File(fname);
 		String[] phoneNums = new String[9];
-		String phoneNum = null;
+		String phoneNum;
 
 		try {
 			BufferedReader br = new BufferedReader(new FileReader(fobj));
