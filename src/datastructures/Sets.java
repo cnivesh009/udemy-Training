@@ -1,7 +1,7 @@
 /*
- * @author		Nivesh Chandola
+ * @author	Nivesh Chandola
  * Created on	10/08/2019, 3:44:14 PM           
- * Program		Sets   
+ * Program	Sets   
  * Last Edited    
  */
 /// HashSet class implements the Set interface, supported by a hash table,
