@@ -1,8 +1,8 @@
 /*
- * @author		: Nivesh Chandola
- * Created on	: 10/08/2019, 12:35:53 PM           
- * Program	    : Lists  
- * Last Edited	: 10/08/2019   
+ * @author    	 Nivesh Chandola
+ * Created on	 10/08/2019, 12:35:53 PM           
+ * Program	     Lists  
+ * Last Edited	 10/08/2019   
  */
 package datastructures;
 
