@@ -1,6 +1,6 @@
 /*
  * @author	: Nivesh Chandola
- * Date         : 22/07/2019
+ * Created on   : 22/07/2019
  * Program      : Array of numbers - Displays Min, Avg and Max
  * Last Edited  : 10/08/2019
  */
