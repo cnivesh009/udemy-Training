@@ -1,8 +1,8 @@
 /*
- * @author        Nivesh Chandola
- * Date           01/08/2019
- * Program        File Handling
- * Last Edited    10/08/2019
+ * @author	: Nivesh Chandola
+ * Created on	: 01/08/2019
+ * Program      : File Handling
+ * Last Edited  : 10/08/2019
  */
 
 package files;
