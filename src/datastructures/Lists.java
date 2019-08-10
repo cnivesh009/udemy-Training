@@ -1,16 +1,16 @@
 /*
- * @author    	 Nivesh Chandola
- * Created on	 10/08/2019, 12:35:53 PM           
- * Program		 Lists  
- * Last Edited	 10/08/2019   
+ * @author		Nivesh Chandola
+ * Created on	10/08/2019, 6:08:38 PM           
+ * Program      Lists   
+ * Last Edited  10/08/2019   
  */
+
 package datastructures;
 
 import java.util.ArrayList;
 
 public class Lists {
-
-	public static void main(String[] args) {
+    public static void main(String[] args) { 
 		//	create a collection
 		ArrayList<String> cities = new ArrayList<String>();
 
@@ -35,5 +35,5 @@ public class Lists {
 		cities.remove(0);
 		size = cities.size();
 		System.out.println("Now there are " + size + " elements in the list");
-	}
+    }
 }
