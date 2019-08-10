@@ -1,8 +1,8 @@
 /*
- * @author        Nivesh Chandola
- * Date           31/07/2019
- * Program        Exception
- * Last Edited    10/08/2019
+ * @author      : Nivesh Chandola
+ * Created on	: 31/07/2019
+ * Program      : Exception
+ * Last Edited  : 10/08/2019
  */
 
 package exceptions;
