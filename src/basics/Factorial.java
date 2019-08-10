@@ -1,8 +1,8 @@
 /*
- * @author        Nivesh Chandola
- * Date           22/07/2019
- * Program        Factorial
- * Last Edited    10/08/2019
+ * @author	: Nivesh Chandola
+ * Created on	: 22/07/2019
+ * Program      : Factorial
+ * Last Edited  : 10/08/2019
  */
 
 package basics;
