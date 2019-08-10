@@ -1,8 +1,8 @@
 /*
- * @author	Nivesh Chandola
- * Created on	10/08/2019, 3:44:14 PM           
- * Program	Sets   
- * Last Edited    
+ * @author		: Nivesh Chandola
+ * Created on	: 10/08/2019, 3:44:14 PM           
+ * Program		: Sets   
+ * Last Edited	: 10/08/2019
  */
 /// HashSet class implements the Set interface, supported by a hash table,
 /// which is actually an instance of HashMap.
