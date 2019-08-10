@@ -1,2 +1,0 @@
-labs.BankAccountApp
-labs.BankAccount

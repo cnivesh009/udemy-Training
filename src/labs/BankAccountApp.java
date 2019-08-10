@@ -1,8 +1,8 @@
 /*
- * @author:        Nivesh Chandola
- * Date:           30.07.2019
- * Program:        BankAccountApp
- * Last Edited:    30.07.2019
+ * @author        Nivesh Chandola
+ * Date           30/07/2019
+ * Program        BankAccountApp
+ * Last Edited    10/08/2019
  */
 
 package labs;

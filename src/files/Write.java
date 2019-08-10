@@ -1,8 +1,8 @@
 /*
- * @author:        Nivesh Chandola
- * Date:           01.08.2019
- * Program:        Write data to file
- * Last Edited:    01.07.2019
+ * @author        Nivesh Chandola
+ * Date           01/08/2019
+ * Program        Write data to file
+ * Last Edited    10/08/2019
  */
 package files;
 

@@ -1,8 +1,8 @@
 /*
- * @author:        Nivesh Chandola
- * Date:           01.08.2019
- * Program:        Data Structures - Arrays
- * Last Edited:    02.08.2019
+ * @author        Nivesh Chandola
+ * Date           01/08/2019
+ * Program        Data Structures - Arrays
+ * Last Edited    10/08/2019
  */
 package datastructures;
 

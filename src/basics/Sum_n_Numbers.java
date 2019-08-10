@@ -1,8 +1,8 @@
 /*
- * @author:        Nivesh Chandola
- * Date:           22.07.2019
- * Program:        Sum of 1 to n Numbers
- * Last Edited:    22.07.2019
+ * @author        Nivesh Chandola
+ * Date           22/07/2019
+ * Program        Sum of 1 to n Numbers
+ * Last Edited    22/07/2019
  */
 
 package basics;
