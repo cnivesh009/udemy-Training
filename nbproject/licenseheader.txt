@@ -1,0 +1,10 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}@author		: Nivesh Chandola
+${licensePrefix}Created on		: ${date}, ${time}           
+${licensePrefix}Program		:    
+${licensePrefix}Last Edited		:    
+<#if licenseLast??>
+${licenseLast}
+</#if>
