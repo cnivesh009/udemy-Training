@@ -1,8 +1,8 @@
 /*
- * @author        Nivesh Chandola
- * Date           30/07/2019
- * Program        Interest
- * Last Edited    10/08/2019
+ * @author      : Nivesh Chandola
+ * created on   : 30/07/2019
+ * Program      : Interest
+ * Last Edited  : 10/08/2019
  */
 
 package labs;
