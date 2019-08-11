@@ -41,6 +41,7 @@ public class Sets {
 		farmAnimals.add("horse");
 		farmAnimals.add("dog");
 		farmAnimals.add("goat");
+		farmAnimals.add("goat");
 		farmAnimals.add("pig");
 		System.out.println("Farm Animals: " + farmAnimals);
 		System.out.println();
@@ -70,6 +71,7 @@ public class Sets {
 		Set<String> carnivores = new LinkedHashSet<String>();
 		carnivores.add("leopard");
 		carnivores.add("lion");
+		carnivores.add("wolf");
 		carnivores.add("wolf");
 		carnivores.add("tiger");
 		System.out.println();
