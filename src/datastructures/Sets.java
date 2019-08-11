@@ -1,7 +1,7 @@
 /*
- *  @author		: Nivesh Chandola
+ *  @author	: Nivesh Chandola
  *  Created on	: 11/08/2019, 12:02:36 AM
- *  Program		: Sets	
+ *  Program	: Sets	
  *  Last Edited	: 11/08/2019
  */
 /// HashSet class implements the Set interface, supported by a hash table an
@@ -85,7 +85,7 @@ public class Sets {
 		System.out.println("Mammals: " + mammals + "; " + mammals.size() + " elements" + "\n");
 		
 		Set<String> carnivoreSet = new TreeSet<>(carnivores);
-		System.out.println("TreeSet lists elements in alphabetical order");
+		System.out.println("TreeSet lists elements in alphabetical order/ numerical order");
 		System.out.println("Carnivores: " + carnivoreSet);
 	}
 }
