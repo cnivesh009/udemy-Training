@@ -1,5 +1,5 @@
 /*
- * @author	: Nivesh Chandola
+ * @author		: Nivesh Chandola
  * Created on	: 22/07/2019
  * Program      : Sum of 1 to n Numbers
  * Last Edited  : 10/08/2019

@@ -1,7 +1,7 @@
 /*
- * @author	: Nivesh Chandola
+ * @author		: Nivesh Chandola
  * Created on	: 31/07/2019
- * Program	: User defined exception
+ * Program		: User defined exception
  * Last Edited	: 10/08/2019
  */
 

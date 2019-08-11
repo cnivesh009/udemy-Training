@@ -1,7 +1,7 @@
 /*
- * @author	: Nivesh Chandola
+ * @author		: Nivesh Chandola
  * Created on	: 01/08/2019
- * Program	: Multi Dimension Array
+ * Program		: Multi Dimension Array
  * Last Edited	: 10/08/2019
  */
 package datastructures;
