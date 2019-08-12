@@ -10,7 +10,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class Demo {
-
+	//	class variables
 	static int[] number = {96, 97, 86, 79, 58, -1, 0, 2, 8, 5, 9, 52, 100};
 	static int num_search = -1;
 
@@ -29,6 +29,7 @@ public class Demo {
 			LinSearch();
 		} else if (ch == 3) {
 			System.out.println("\nBubble Sorting");
+			//	class is Sort
 			Sort.bubbleSort(number);
 		} else {
 			System.out.println("\nInvalid selection...");
