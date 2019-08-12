@@ -11,28 +11,36 @@ import java.util.Scanner;
 
 public class Demo {
 
-	static int[] number = {96, 97, 86, 79, 58, -1, 0, 2, 5, 8, 9, 52, 100};
+	static int[] number = {96, 97, 86, 79, 58, -1, 0, 2, 8, 5, 9, 52, 100};
 	static int num_search = -1;
 
 	public static void main(String[] args) {
 		System.out.println("Welcome to Search Algorithm");
 		System.out.println("Select from\n" + "1. Binary Search \n" + "2. Linear Search");
-		System.out.print("Enter your choice(1/2): ");
+		System.out.println("3. Perform Bubble Sort");
+		System.out.print("Enter your choice(1/3): ");
+
 		Scanner in = new Scanner(System.in);
 		int ch = in.nextInt();
+
 		if (ch == 1) {
 			BinSearch();
-		} else {
+		} else if (ch == 2) {
 			LinSearch();
+		} else if (ch == 3) {
+			System.out.println("\nBubble Sorting");
+			Sort.bubbleSort(number);
+		} else {
+			System.out.println("\nInvalid selection...");
 		}
 	}
 
 	public static void LinSearch() {
 		//	call function to perform linear search
-		System.out.println("Linear search operation is selected");
+		System.out.println("\nLinear search operation is selected");
 		int pos = algorithms.SearchAlgorithm.LinearSearch(number, num_search);
 		if (pos == -1) {
-			System.out.println("Number not found.");
+			System.out.println("\nNumber not found.");
 		} else {
 			System.out.println("Number found at pos: " + (pos + 1));
 		}
@@ -45,7 +53,6 @@ public class Demo {
 		Arrays.sort(number);
 
 		System.out.println("\nBinary Search works on sorted array\n");
-		System.out.println("Elements are sorted first");
 		for (int i = 0; i < number.length; i++) {
 			System.out.print(number[i] + " ");
 		}
