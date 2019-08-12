@@ -13,15 +13,16 @@ class Sort {
 		displayArr(dataSet);
 		int pass = 1;
 		do {
-			for (int i = 0; i < (dataSet.length - 1 - pass); i++) {
+			for (int i = 0; i < (dataSet.length - 1); i++) {
 
 				if (dataSet[i] > dataSet[i + 1]) {
+					//	swapping
 					int tmp = dataSet[i];
 					dataSet[i] = dataSet[i + 1];
 					dataSet[i + 1] = tmp;
 				}
 			}
-			pass++;
+			pass++; //	increment pass
 		} while (pass <= dataSet.length - 1);
 		System.out.print("\n" + "Sorted Array: ");
 		displayArr(dataSet);
@@ -29,9 +30,9 @@ class Sort {
 
 	}
 
+	//	can only be accessed by class: Sort 
 	private static void displayArr(int[] arr) {
 		for (int i : arr) {
-
 			System.out.print(i + " ");
 		}
 	}
