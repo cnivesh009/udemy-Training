@@ -18,8 +18,11 @@ public class SearchAlgorithm {
 		return 0;
 	}
 
+	//	recursion method is used
 	public static int BinarySearch(int[] dataSet, int target, int start, int end) {
 		//	binary search works on sorted array
+
+		//	end, start and mid will vary because of recursion
 		if (end >= start) {
 			int mid = start + (end - start) / 2;
 

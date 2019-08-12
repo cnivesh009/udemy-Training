@@ -30,7 +30,7 @@ public class Demo {
 	public static void LinSearch() {
 		//	call function to perform linear search
 		System.out.println("Linear search operation is selected");
-		int pos = algorithms.Search.LinearSearch(number, num_search);
+		int pos = algorithms.SearchAlgorithm.LinearSearch(number, num_search);
 		if (pos == -1) {
 			System.out.println("Number not found.");
 		} else {
@@ -50,7 +50,7 @@ public class Demo {
 			System.out.print(number[i] + " ");
 		}
 
-		index = algorithms.Search.BinarySearch(number, num_search, 0, number.length);
+		index = algorithms.SearchAlgorithm.BinarySearch(number, num_search, 0, number.length);
 		if (index == -1) {
 			System.out.println("\nNumber not found...");
 		} else {
