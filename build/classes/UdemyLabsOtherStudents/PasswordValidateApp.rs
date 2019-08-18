@@ -1,4 +1,0 @@
-UdemyLabsOtherStudents.PasswordValidateApp
-UdemyLabsOtherStudents.specialCharException
-UdemyLabsOtherStudents.numberException
-UdemyLabsOtherStudents.alphaException
