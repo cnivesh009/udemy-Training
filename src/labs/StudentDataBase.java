@@ -49,9 +49,8 @@ class StudentDet {
 		this.name = name;
 		this.SSN = SSN;
 
-		setUserId();
 		setEmail();
-
+		setUserId();
 	}
 	
 	/*-----------Setters-----------*/
