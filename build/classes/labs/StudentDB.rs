@@ -1,2 +1,0 @@
-labs.Student
-labs.StudentDB

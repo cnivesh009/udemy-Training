@@ -5,15 +5,22 @@
  * Last Edited  : 10/08/2019
  */
 
- /* 
-   This program checks the criteria set for Password
-   the password contains:
-		atleast a number
-		atleast a letter
-		atleast a special character(ex !@#...)
-   create 3 programmer defined exception for the set criteria
- */
-package exceptions;
+//------------------------------------------------------------------------------
+	/*
+		Read a file that checks the criteria for a password
+			- Read a file that contains multiple sets of passwords 
+			  (use http://www.theonegenerator.com/ to generate a set of test data)
+			- Verify that the password contains all of the following 
+			  criteria: 
+					1. A number 
+					2. A letter 
+					3. Special character (! @ #)
+			- Create three User Defined Exceptions for the corresponding criteria
+			- If the password does not meet the criteria, create and throw the appropriate exception
+	 */
+//------------------------------------------------------------------------------
+
+package labs;
 
 import java.io.BufferedReader;
 import java.io.File;

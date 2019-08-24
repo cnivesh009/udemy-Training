@@ -2,11 +2,10 @@
  *  @author		: Nivesh Chandola
  *  Created on	: 12/08/2019, 10:18:23 PM
  *  Program		: Student Database	
- *  Last Edited	: 17/08/2019
+ *  Last Edited	: 20/08/2019
  */
 package labs;
 
-import com.mysql.cj.util.StringUtils;
 import java.util.Scanner;
 
 public class StudentDB {
@@ -117,9 +116,13 @@ class Student {
 
 	//	methods
 	public void Enrol(String[] course) {
+		for(int i=0;i<course.length;i++)
+		{
+			Courses=Courses+" "+course[i];
+		}
 		
-			Courses = Courses + "\n			" + StringUtils.join(course,"\n");
-			tuitionBalance = tuitionBalance + CourseCost;
+			//Courses = Courses + "\n			" + StringUtils.join(course,"\n");
+			//tuitionBalance = tuitionBalance + CourseCost;
 		
 
 	}
