@@ -1,9 +1,10 @@
 /**
- *    Document   : Bubble Sort
+ *    Document   : Sort
  *    Created on : 12/08/2019, 4:55:52 PM
  *    Author     : Nivesh-GC
- 
  */
+
+//-----------Bubble Sort-----------
 package algorithms;
 
 class Sort {
