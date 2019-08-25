@@ -1,9 +1,10 @@
-/*
- * @author      : Nivesh Chandola
- * Created on	: 01/08/2019
- * Program      : Write data to file
- * Last Edited  : 10/08/2019
+/**
+ *    Document   : Write
+ *    Created on : 01/08/2019, 12:19:36 PM
+ *    Author     : Nivesh-GC
  */
+
+//---------------File Handling---------------
 package files;
 
 import java.io.File;
