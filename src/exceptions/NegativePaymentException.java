@@ -1,8 +1,7 @@
-/*
- * @author		: Nivesh Chandola
- * Created on	: 31/07/2019
- * Program		: User defined exception
- * Last Edited	: 10/08/2019
+/**
+ *    Document   : NegativePaymentException
+ *    Created on : 31/07/2019, ‏‎4:38:45 PM
+ *    Author     : Nivesh-GC
  */
 
 package exceptions;
