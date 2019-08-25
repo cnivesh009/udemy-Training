@@ -1,8 +1,7 @@
-/*
- *  @author		: Nivesh Chandola
- *  Created on	: 22/08/2019, 6:44:20 PM
- *  Program		: Credit Card Statement	
- *  Last Edited	: 24/08/2019
+/**
+ *    Document   : BasicFunctions
+ *    Created on : 22/08/2019, 6:44:20 PM
+ *    Author     : Nivesh-GC 
  */
 //------------------------------------------------------------------------------
 	/*
