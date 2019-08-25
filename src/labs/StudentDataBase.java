@@ -1,8 +1,7 @@
-/*
- *  @author		: Nivesh Chandola
- *  Created on	: 18/08/2019, 7:25:12 PM
- *  Program		: Student Database	
- *  Last Edited	: 24/08/2019
+/**
+ *    Document   : StudentDataBase
+ *    Created on : 18/08/2019, 7:25:12 PM
+ *    Author     : Nivesh-GC
  */
 
 //------------------------------------------------------------------------------
