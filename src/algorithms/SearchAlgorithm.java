@@ -1,9 +1,10 @@
-/*
- *  @author		: Nivesh Chandola
- *  Created on	: 11/08/2019, 8:23:50 PM
- *  Program		: LinearSearch, BinarySearch works with main Class Demo	
- *  Last Edited	: 12/08/2019
+/**
+ *    Document   : SearchAlgorithm
+ *    Created on : 11/08/2019, 8:23:50 PM	
+ *    Author     : Nivesh-GC
  */
+
+//---------Program: LinearSearch, BinarySearch works with main Class Demo
 package algorithms;
 
 public class SearchAlgorithm {
