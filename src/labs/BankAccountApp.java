@@ -1,12 +1,10 @@
-/*
- * @author		: Nivesh Chandola
- * Created on	: 30/07/2019
- * Program      : BankAccountApp works with class IInterest
- * Last Edited  : 24/08/2019
+/**
+ *    Document   : BankAccountApp
+ *    Created on : 30/07/2019, 7:25:04 PM
+ *    Author     : Nivesh-GC 
  */
 
-
-
+//----------BankAccountApp works with class IInterest-----------
 package labs;
 
 public class BankAccountApp{
