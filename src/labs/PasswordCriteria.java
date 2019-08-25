@@ -1,12 +1,12 @@
-/*
- * @author		: Nivesh Chandola
- * Created on	: 02/08/2019
- * Program      : Exceptions and file handling
- * Last Edited  : 10/08/2019
+/**
+ *    Document   : PasswordCriteria
+ *    Created on : 02/08/2019, 10:34:26 AM
+ *    Author     : Nivesh-GC
  */
 
 //------------------------------------------------------------------------------
 	/*
+		Exceptions and file handling
 		Read a file that checks the criteria for a password
 			- Read a file that contains multiple sets of passwords 
 			  (use http://www.theonegenerator.com/ to generate a set of test data)
