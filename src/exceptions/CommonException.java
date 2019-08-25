@@ -1,8 +1,7 @@
-/*
- * @author      : Nivesh Chandola
- * Created on	: 31/07/2019
- * Program		: Exception
- * Last Edited	: 10/08/2019
+/**
+ *    Document   : CommonException
+ *    Created on : 31/07/2019, ‏‎4:55:35 PM
+ *    Author     : Nivesh-GC
  */
 
 package exceptions;
