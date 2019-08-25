@@ -1,8 +1,10 @@
-/*
- * @author		: Nivesh Chandola
- * Created on   : 22/07/2019
- * Program      : Array of numbers - Displays Min, Avg and Max
- * Last Edited  : 10/08/2019
+/**
+ *    Document   : Nivesh Chandola
+ *    Created on : 22/07/2019
+ *    Author     : Nivesh-GC
+ */
+
+ /* Program      : Array of numbers - Displays Min, Avg and Max
  */
 package basics;
 

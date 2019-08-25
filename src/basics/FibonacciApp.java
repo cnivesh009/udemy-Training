@@ -1,8 +1,7 @@
-/*
- * @author		: Nivesh Chandola
- * Created on   : 22/07/2019
- * Program      : Fibonacci Series
- * Last Edited  : 10/08/2019
+/**
+ *    Document   : FibonacciApp
+ *    Created on : 22/07/2019
+ *    Author     : Nivesh-GC
  */
 package basics;
 
@@ -15,7 +14,7 @@ public class FibonacciApp {
 		//	fib(3) = fib(2) + fib(1) + fib(0) = 2
 		//	fib(4) = fib(3) + fib(2) + fib(1) + fib(0) = 3
 		//	fib(5) = fib(4) + fib(3) + fib(2) + fib(1) + fib(0) = 5
-		System.out.println("***Fibonacci***");
+		System.out.println("***FibonacciApp***");
 		System.out.println(fibonacci(5));
 	}
 
