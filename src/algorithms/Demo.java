@@ -1,7 +1,7 @@
 /**
  *    Document   : Demo
  *    Created on : 11/08/2019, 8:28:42 PM
- *    Author     : Nivesh Chandola
+ *    Author     : Nivesh-GC
  */
 
 //----------------------------Algorithms----------------------------
