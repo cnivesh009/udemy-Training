@@ -1,8 +1,8 @@
-/*
- *  @author		: Nivesh Chandola
- *  Created on	: 12/08/2019, 4:55:52 PM
- *  Program		: Bubble Sort	
- *  Last Edited	: 12/08/2019
+/**
+ *    Document   : Bubble Sort
+ *    Created on : 12/08/2019, 4:55:52 PM
+ *    Author     : Nivesh-GC
+ 
  */
 package algorithms;
 
