@@ -1,9 +1,10 @@
-/*
- * @author		: Nivesh Chandola
- * Created on	: 01/08/2019
- * Program      : File Handling
- * Last Edited  : 10/08/2019
+/**
+ *    Document   : Read
+ *    Created on : 01/08/2019, ‏‎8:59:29 AM
+ *    Author     : Nivesh-GC
  */
+
+//---------------File Handling---------------
 package files;
 
 import java.io.BufferedReader;
