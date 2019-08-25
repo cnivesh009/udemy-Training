@@ -1,9 +1,10 @@
-/*
- * @author	: Nivesh Chandola
- * Created on 	: 01/08/2019
- * Program	: Data Structures - Arrays
- * Last Edited	: 10/08/2019
+/**
+ *    Document   : Arrays
+ *    Created on : 01/08/2019, 7:25:04 PM
+ *    Author     : Nivesh-GC 
  */
+
+//----------------Data Structures : Arrays----------------
 package datastructures;
 
 public class Arrays {
