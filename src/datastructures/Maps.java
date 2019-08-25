@@ -1,12 +1,12 @@
-/*
- *  @author		: Nivesh Chandola
- *  Created on	: 11/08/2019, 1:48:44 PM
- *  Program		: Maps are key value pairs	
- *  Last Edited	: 11/08/2019
+/**
+ *    Document   : Maps
+ *    Created on : 11/08/2019, 1:48:44 PM
+ *    Author     : Nivesh-GC
  */
+
+// Maps are key value pairs	
 package datastructures;
 
-import java.util.HashMap;
 import java.util.Map;
 import java.util.TreeMap;
 
