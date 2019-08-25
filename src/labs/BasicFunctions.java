@@ -1,9 +1,9 @@
-/*
- *  @author		: Nivesh Chandola
- *  Created on	: 24/08/2019, 12:28:34 PM
- *  Program		: 	
- *  Last Edited	: 
+/**
+ *    Document   : BasicFunctions
+ *    Created on : 24/08/2019, 12:28:34 PM
+ *    Author     : Nivesh-GC 
  */
+
 //------------------------------------------------------------------------------
 /*
 		1.	Write a function that takes a value n returns the sum of numbers 1 to n
