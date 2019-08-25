@@ -1,9 +1,10 @@
-/*
- *  @author		: Nivesh Chandola
- *  Created on	: 11/08/2019, 8:28:42 PM
- *  Program		: Algorithms Demo 	
- *  Last Edited	: 12/08/2019
+/**
+ *    Document   : Demo
+ *    Created on : 11/08/2019, 8:28:42 PM
+ *    Author     : Nivesh Chandola
  */
+
+//----------------------------Algorithms----------------------------
 package algorithms;
 
 import java.util.Arrays;
