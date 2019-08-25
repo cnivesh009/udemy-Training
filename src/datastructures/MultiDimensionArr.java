@@ -1,9 +1,8 @@
-/*
- * @author		: Nivesh Chandola
- * Created on	: 01/08/2019
- * Program		: Multi Dimension Array
- * Last Edited	: 10/08/2019
- */
+/**
+ *    Document   : MultiDimensionArr
+ *    Created on : 11/08/2019, 1:48:44 PM
+ *    Author     : Nivesh-GC
+ */	
 package datastructures;
 
 public class MultiDimensionArr {
